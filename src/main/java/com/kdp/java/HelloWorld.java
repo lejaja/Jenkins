@@ -3,7 +3,7 @@ package com.kdp.java;
 public class HelloWorld {
 
 	/**
-	 * @author Kshitij Pawar	
+	 * @author Charly Ngoukam
 	 * @param args
 	 */
 	public static void main(String[] args) {

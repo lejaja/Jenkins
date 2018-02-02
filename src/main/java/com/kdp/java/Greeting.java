@@ -1,7 +1,7 @@
 package com.kdp.java;
 
 /**
- * @author Kshitij Pawar	
+ * @author Charly Ngoukam
  * @param args
  */
 public class Greeting {
