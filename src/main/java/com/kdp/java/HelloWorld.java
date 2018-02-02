@@ -11,7 +11,7 @@ public class HelloWorld {
 		Greeting obj = new Greeting();
 		System.out.println(obj.greet("Charly"));
 		AnotherGreeting ag= new AnotherGreeting();
-		int nbre=ag.addition(20,30);
+		int nbre=ag.Division(20,10);
         System.out.println(nbre);
 	}	
 }
