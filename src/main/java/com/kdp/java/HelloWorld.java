@@ -7,7 +7,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// mon deuxieme commit
+		// Ce projet est est juste magnifique
 		Greeting obj = new Greeting();
 		System.out.println(obj.greet("Charly"));
 	}	
